@@ -74,21 +74,21 @@
 
 ### 🐱 Cat Mafia Gang
 
-- **Preview:** [Live Demo](https://noureldin023.github.io/catMafiaGang/)
+- **Preview:** [Live Demo](https://noureldin023.github.io/the-cat-gang/)
 
-- **Repo:** [GitHub](https://github.com/NourElDin023/catMafiaGang)
+- **Repo:** [GitHub](https://github.com/NourElDin023/the-cat-gang)
 
 ### 🐍 ITI Management System
 
 - **Preview:** [Live Demo](https://noureldin023.pythonanywhere.com)
 
-- **Repo:** [GitHub](https://github.com/NourElDin023/ITI-Django-lab-1)
+- **Repo:** [GitHub](https://github.com/NourElDin023/ITI-Management-System)
 
-### 🛒 Kaminari Promo Shop
+### 🛒 Promo Shop
 
 - **Preview:** [Live Demo](https://kaminari-promo-shop.netlify.app/)
 
-- **Repo:** [GitHub](https://github.com/NourElDin023/ITI_React_Labs)
+- **Repo:** [GitHub](https://github.com/NourElDin023/promo-shop)
 
 ---
 
