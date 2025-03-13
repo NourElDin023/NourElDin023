@@ -70,6 +70,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40" />
 </p>
 
+--- 
+
+## 🚀  Projects
+
+### 🐱 Cat Mafia Gang
+
+- **Preview:** [Live Demo](https://noureldin023.github.io/catMafiaGang/)
+
+- **Repo:** [GitHub](https://github.com/NourElDin023/catMafiaGang)
+
+### 🐍 ITI Management System
+
+- **Preview:** [Live Demo](https://noureldin023.pythonanywhere.com)
+
+- **Repo:** [GitHub](https://github.com/NourElDin023/ITI-Django-lab-1)
+
+### 🛒 Kaminari Promo Shop
+
+- **Preview:** [Live Demo](https://kaminari-promo-shop.netlify.app/)
+
+- **Repo:** [GitHub](https://github.com/NourElDin023/ITI_React_Labs)
+
 ---
 
 ## 🔥 My Stats
