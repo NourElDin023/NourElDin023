@@ -24,6 +24,16 @@
 
 ---
 
+## 📄 Download My Resume
+<p align="left">
+  <a href="https://github.com/NourElDin023/noureldin-nabil-cv/raw/main/NourElDin_Nabil_CV.pdf" target="_blank">
+    <img align="center" title="Download Resume"
+      src="https://cdn-icons-png.flaticon.com/512/337/337946.png"
+      alt="Resume Icon" height="40" width="40" /></a>
+</p>
+
+---
+
 ## 🛠 Languages and Tools
 
 ### 💻 Programming & Scripting
