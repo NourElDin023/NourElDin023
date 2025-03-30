@@ -67,6 +67,7 @@
 ### 🐧 Operating Systems & IT Support
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40" />
 </p>
 
