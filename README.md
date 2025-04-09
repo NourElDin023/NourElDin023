@@ -24,10 +24,10 @@
 
 ---
 
-## 📄 Download My Resume
+## 📄 View My Resume
 <p align="left">
-  <a href="https://github.com/NourElDin023/noureldin-nabil-cv/raw/main/NourElDin_Nabil_CV.pdf" target="_blank">
-    <img align="center" title="Download Resume"
+  <a href="https://drive.google.com/file/d/11aSTesyqknzoXznQ78leFay-4bpDDgB_/view" target="_blank">
+    <img align="center" title="View Resume"
       src="https://cdn-icons-png.flaticon.com/512/337/337946.png"
       alt="Resume Icon" height="40" width="40" /></a>
 </p>
