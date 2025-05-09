@@ -83,6 +83,16 @@
 
 ## 🚀  Projects
 
+### 🌟 Planora
+A Django and React app for collaborative goal and plan management with full user authentication and REST API.
+- **Preview:** [Live Demo](https://planora-tracker.web.app/)
+- **Repos:** [Frontend: GitHub](https://github.com/NourElDin023/planora-frontend), [Backend: GitHub](https://github.com/NourElDin023/planora-backend)
+
+### 💰 Karam Fund
+A Django app for managing donations, donors, and beneficiaries with admin control.
+- **Preview:** [Live Demo](https://karamfund.pythonanywhere.com/)
+- **Repo:** [GitHub](https://github.com/NourElDin023/karam-fund)
+
 ### 🐱 Cat Mafia Gang
 
 - **Preview:** [Live Demo](https://noureldin023.github.io/the-cat-gang/)
