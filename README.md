@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World!👋<br>I'm NourEldin Nabil</h1>
-<h3 align="center">A passionate Full-Stack Developer crafting web applications using React.js & Django</h3>
+<h3 align="center">A passionate Full-Stack Web Developer crafting web applications using React.js & Django</h3>
 <div align="center">
   <img height="200" title="Coding GIF"
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRxaDZ2Z3ZidHo3azFjNDR2eHZ6c3lkZGtrN3FhOWs3eG5vb3doMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
