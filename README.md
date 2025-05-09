@@ -84,29 +84,29 @@
 ## 🚀  Projects
 
 ### 🌟 Planora
-A Django and React app for collaborative goal and plan management with full user authentication and REST API.
+A Full-Stack Django and React app for collaborative goal and plan management with full user authentication and REST API.
 - **Preview:** [Live Demo](https://planora-tracker.web.app/)
 - **Repos:** [Frontend: GitHub](https://github.com/NourElDin023/planora-frontend), [Backend: GitHub](https://github.com/NourElDin023/planora-backend)
 
 ### 💰 Karam Fund
-A Django app for managing donations, donors, and beneficiaries with admin control.
+A Full-Stack Django app for managing donations, donors, and beneficiaries with admin control.
 - **Preview:** [Live Demo](https://karamfund.pythonanywhere.com/)
 - **Repo:** [GitHub](https://github.com/NourElDin023/karam-fund)
 
 ### 🐱 Cat Mafia Gang
-
+A fun interactive website featuring creative cat-themed content.
 - **Preview:** [Live Demo](https://noureldin023.github.io/the-cat-gang/)
 
 - **Repo:** [GitHub](https://github.com/NourElDin023/the-cat-gang)
 
 ### 🐍 ITI Management System
-
+ A Full-Stack Django web app with authentication, CRUD operations, and database management.
 - **Preview:** [Live Demo](https://noureldin023.pythonanywhere.com)
 
 - **Repo:** [GitHub](https://github.com/NourElDin023/ITI-Management-System)
 
 ### 🛒 Promo Shop
-
+A React e-commerce store for promotional products with dynamic filtering and cart functionality.
 - **Preview:** [Live Demo](https://kaminari-promo-shop.netlify.app/)
 
 - **Repo:** [GitHub](https://github.com/NourElDin023/promo-shop)
