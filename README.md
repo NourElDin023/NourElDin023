@@ -28,8 +28,8 @@
 <p align="left">
   <a href="https://drive.google.com/file/d/11aSTesyqknzoXznQ78leFay-4bpDDgB_/view" target="_blank">
     <img align="center" title="View Resume"
-      src="https://cdn-icons-png.flaticon.com/512/337/337946.png"
-      alt="Resume Icon" height="40" width="40" /></a>
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968523.png"
+      alt="Google Drive Icon" height="40" width="40" /></a>
 </p>
 
 ---
