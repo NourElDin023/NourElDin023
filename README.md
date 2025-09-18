@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World!👋<br>I'm NourEldin Nabil</h1>
-<h3 align="center">A passionate Full-Stack Web Developer crafting web applications using React.js & Django</h3>
+<h3 align="center">A passionate Full-Stack Web Developer crafting web applications using React.js & Node.js</h3>
 <div align="center">
   <img height="200" title="Coding GIF"
     src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRxaDZ2Z3ZidHo3azFjNDR2eHZ6c3lkZGtrN3FhOWs3eG5vb3doMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
@@ -38,8 +38,8 @@
 
 ### 💻 Programming & Scripting
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" />
 </p>
@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40" />
@@ -58,10 +58,15 @@
 
 ### ⚙️ Backend Development
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.JS" alt="Node.JS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" />          
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" /> -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" alt="Mongoose" width="40" height="40" />
 </p>
 
 ### 🐧 Operating Systems & IT Support
