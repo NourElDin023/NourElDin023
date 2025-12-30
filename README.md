@@ -109,18 +109,6 @@ A fun interactive website featuring creative cat-themed content.
 
 - **Repo:** [GitHub](https://github.com/NourElDin023/the-cat-gang)
 
-### 🐍 ITI Management System
- A Full-Stack Django web app with authentication, CRUD operations, and database management.
-- **Preview:** [Live Demo](https://noureldin023.pythonanywhere.com)
-
-- **Repo:** [GitHub](https://github.com/NourElDin023/ITI-Management-System)
-
-### 🛒 Promo Shop
-A React e-commerce store for promotional products with dynamic filtering and cart functionality.
-- **Preview:** [Live Demo](https://kaminari-promo-shop.netlify.app/)
-
-- **Repo:** [GitHub](https://github.com/NourElDin023/promo-shop)
-
 ---
 
 ## 🔥 GitHub Stats
