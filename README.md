@@ -124,9 +124,9 @@ A React e-commerce store for promotional products with dynamic filtering and car
 ---
 
 ## 🔥 GitHub Stats
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noureldin023&locale=en&layout=compact&langs_count=6&theme=transparent" height="220" alt="languages graph" title="Top Languages" />
-</div>
+</div> -->
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=noureldin023&theme=transparent" height="220" alt="streak graph" title="GitHub Streak" />
